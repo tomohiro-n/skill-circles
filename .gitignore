@@ -1,0 +1,14 @@
+.idea/
+*.iml
+node_modules/
+bower_components/
+.sass-cache/
+.tmp/
+dist/
+typings/
+tsd.json
+
+src/app/**/*.js
+src/app/**/*.js.map
+src/components/**/*.js
+src/components/**/*.js.map
