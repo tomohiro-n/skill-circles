@@ -1,4 +1,4 @@
-/// <reference path="../../.tmp/typings/tsd.d.ts" />
+/// <reference path="../../typings/tsd.d.ts" />
 
 /// <reference path="main/main.controller.ts" />
 /// <reference path="service/d3Service.ts" />
