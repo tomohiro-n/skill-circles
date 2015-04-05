@@ -1,0 +1,139 @@
+{
+  "name": "Tomo",
+  "children": [
+    {
+      "name": "Tech",
+      "children": [
+        {
+          "name": "Software Development",
+          "children": [
+            {
+              "name": "Languages",
+              "children": [
+                {
+                  "name": "Java",
+                  "size": 100
+                },
+                {
+                  "name": "{Java|Type}Script",
+                  "size": 100
+                },
+                {
+                  "name": "Python",
+                  "size": 30
+                },
+                {
+                  "name": "Swift",
+                  "size": 40
+                },
+                {
+                  "name": "Perl",
+                  "size": 30
+                },
+                {
+                  "name": "C++",
+                  "size": 40
+                }
+              ]
+            },
+            {
+              "name": "Algorithm",
+              "size": 50
+            },
+            {
+              "name" : "Libraries",
+              "children" : [
+                {
+                  "name": "AngularJS",
+                  "size": 30
+                },
+                {
+                  "name": "Restlet",
+                  "size": 40
+                },
+                {
+                  "name": "Cocos2d-x",
+                  "size": 40
+                }
+              ]
+            },
+            {
+              "name": "Platforms",
+              "children": [
+                {
+                  "name": "Linux Servers",
+                  "size": 100
+                },
+                {
+                  "name": "Frontend",
+                  "children": [
+                    {
+                      "name": "Web",
+                      "size": 50
+                    },
+                    {
+                      "name": "Android",
+                      "size": 30
+                    },
+                    {
+                      "name": "iOS",
+                      "size": 30
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Database",
+          "children": [
+            {
+              "name" : "MySQL",
+              "size" : 30
+            },
+            {
+              "name": "DynamoDB",
+              "size": 20
+            }
+          ]
+        },
+        {
+          "name": "Server Management",
+          "children": [
+            {
+              "name": "Docker",
+              "size": 30
+            },
+            {
+              "name": "Google Cloud Platform",
+              "size": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Communication",
+      "children": [
+        {
+          "name": "Languages",
+          "children": [
+            {
+              "name": "Japanese",
+              "size": 100
+            },
+            {
+              "name": "English",
+              "size": 40
+            }
+          ]
+        },
+        {
+          "name": "Technical Writing",
+          "size": 50
+        }
+      ]
+    }
+  ]
+}
